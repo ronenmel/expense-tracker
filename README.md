@@ -30,7 +30,7 @@ Uvicorn
 
 Clone the repository:
 
-git clone https://github.com/ronenmel/expense-tracker-api.git
+git clone https://github.com/ronenmel/expense-tracker.git
 cd expense-tracker-api
 
 
